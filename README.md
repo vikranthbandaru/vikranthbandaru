@@ -1,30 +1,201 @@
-## Hi there, I'm Vikranth! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"/>
+<div align="center">
 
-:mailbox: Reach me out!
+# 👋 Hey, I'm Vikranth Bandaru
 
-[![Twitter Badge](https://img.shields.io/badge/-@VikranthBandaru-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://x.com/Vikranth6921)](https://x.com/Vikranth6921) 
-[![Linkedin Badge](https://img.shields.io/badge/-vikranthbandaru-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikranth-bandaru-b55b8118b/) [![Mail Badge](https://img.shields.io/badge/-@vikranthbandaru-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/vikranthbandaru) [![Mail Badge](https://img.shields.io/badge/-bandaruvikranth-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:bandaruvikranth@gmail.com)
+### AI/ML Engineer | GenAI Systems Builder | M.S. in AI @ UBuffalo
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=600&lines=Building+Production+GenAI+Systems+%F0%9F%9A%80;LLMs+%7C+RAG+%7C+Document+Intelligence;From+Research+to+Business+Impact+%F0%9F%92%A1;Shipping+AI+Products+at+Scale)](https://git.io/typing-svg)
 
-<!--
-**vikranthbandaru/vikranthbandaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vikranthbandaru.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikranth-bandaru-b55b8118b/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Vikranth6921)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bandaruvikranth@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vikranthbandaru)
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=vikranthbandaru&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikranthbandaru&layout=compact" />
-<img align="left" alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-<img align="left" alt="Jupyter Notebook" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"/>
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img align="left" alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+---
 
+## 🚀 About Me
+
+> **I build production-ready AI systems that solve real business problems.**
+
+I'm an **AI/ML Engineer** specializing in **Generative AI systems** — from LLM-powered automation to full-stack AI products. With experience at **Genpact** and **Vaspian**, I translate cutting-edge AI research into scalable business solutions.
+
+🎓 **M.S. in Artificial Intelligence** @ University at Buffalo  
+🏆 **B.Tech in CSE (AI/ML)** @ SRMIST | AIR 270 | Full Scholarship  
+📄 **IEEE Published Researcher** in Computer Vision  
+
+```python
+class VikranthBandaru:
+    def __init__(self):
+        self.role = "AI/ML Engineer"
+        self.location = "New York, USA"
+        self.education = "M.S. in AI @ UBuffalo"
+        self.focus = ["GenAI", "LLMs", "RAG", "MLOps"]
+        
+    def current_work(self):
+        return {
+            "🔍 seeking": ["Applied AI", "GenAI Engineering", "AI Product Development"],
+            "🛠️ building": "Production AI systems at scale",
+            "📚 learning": "Advanced RAG architectures & AI agents"
+        }
+```
+
+---
+
+## 💼 Professional Experience
+
+<table>
+<tr>
+<td width="50%">
+
+**🏢 Data Scientist**  
+*Genpact* | 2023  
+- Built ML pricing optimization for **Nestlé Purina**
+- 25 markets, 6,000 SKUs, **86% accuracy**
+- PySpark + predictive modeling pipeline
+
+</td>
+<td width="50%">
+
+**🚀 AI Product Development Intern**  
+*Vaspian, LLC* | 2024  
+- Designed AI automation products
+- LLM-powered document intelligence
+- Voice AI + workflow integration
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🎯 Impact Highlights
+
+```diff
++ 💬 Built LLM-powered FAQ automation (RAG) → 50% faster resolution time
+    ↳ Llama-3/4, OpenAI embeddings, Qdrant | 12,000+ call transcripts
+
++ 💰 Delivered ML pricing optimization for Nestlé Purina
+    ↳ PySpark pipeline | 25 markets, 6K SKUs | 86% accuracy
+
++ 📄 Created "Data Structurizer" - OCR-driven document intelligence
+    ↳ LangChain + GPT APIs for automated invoice analytics
+
++ 🎙️ Built AI voice assistant with ElevenLabs + Airtable
+    ↳ Webinar automation & intelligent workflows
+
++ 📚 IEEE-published researcher in computer vision (Person Re-ID)
+```
+
+---
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### **Languages & Frameworks**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### **AI/ML & GenAI**
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-8B5CF6?style=for-the-badge)
+
+### **Data & Cloud**
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-24386C?style=for-the-badge)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### **Tools & Platforms**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
+
+---
+
+## 🏗️ What I Build
+
+<table>
+<tr><td>
+
+### 🤖 **AI Systems**
+- LLM-powered automation & RAG architectures
+- Production NLP & document intelligence
+- End-to-end ML pipelines (data → deployment)
+
+</td><td>
+
+### 🎨 **AI Products**
+- Full-stack AI platforms (FastAPI + React)
+- Chatbots & voice agents
+- Vector databases & semantic search
+
+</td></tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VikranthBandaru&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VikranthBandaru&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VikranthBandaru&theme=tokyonight)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🎯 Currently...
+
+```yaml
+🔨 Building: Production-ready GenAI applications
+📖 Learning: Advanced AI agents & multi-modal LLMs
+🎯 Seeking: Applied AI | GenAI Engineering | ML Engineer roles
+🌱 Growing: AI systems architecture & MLOps best practices
+```
+
+---
+
+## 🤝 Let's Connect!
+
+I'm actively looking for opportunities in **Applied AI**, **GenAI Engineering**, **Machine Learning**, and **AI Product Development**.
+
+**Building cutting-edge AI products or teams? Let's talk!**
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Site-blue?style=for-the-badge)](https://vikranthbandaru.github.io/)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/vikranth-bandaru-b55b8118b/)
+[![Email](https://img.shields.io/badge/📧_Email-Get_in_Touch-D14836?style=for-the-badge)](mailto:bandaruvikranth@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+  
+### 💭 *"From research to production, one AI system at a time."*
+
+![Profile Views](https://komarev.com/ghpvc/?username=VikranthBandaru&color=blueviolet&style=flat-square&label=Profile+Views)
+
+⭐️ From [VikranthBandaru](https://github.com/VikranthBandaru)
+
+</div>
