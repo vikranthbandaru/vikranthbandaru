@@ -31,7 +31,7 @@ class VikranthBandaru:
     def __init__(self):
         self.role = "AI/ML Engineer"
         self.location = "New York, USA"
-        self.education = "M.S. in AI @ UBuffalo"
+        self.education = "M.S. in AI @ University at Buffalo - SUNY"
         self.focus = ["GenAI", "LLMs", "RAG", "MLOps"]
         
     def current_work(self):
@@ -51,7 +51,7 @@ class VikranthBandaru:
 <td width="50%">
 
 **🏢 Data Scientist**  
-*Genpact* | 2023  
+*Genpact* | Jul 2023 - Aug 2024  
 - Built ML pricing optimization for **Nestlé Purina**
 - 25 markets, 6,000 SKUs, **86% accuracy**
 - PySpark + predictive modeling pipeline
@@ -60,7 +60,7 @@ class VikranthBandaru:
 <td width="50%">
 
 **🚀 AI Product Development Intern**  
-*Vaspian, LLC* | 2024  
+*Vaspian, LLC* | Sept 2025 - Dec 2025  
 - Designed AI automation products
 - LLM-powered document intelligence
 - Voice AI + workflow integration
@@ -98,6 +98,8 @@ class VikranthBandaru:
 ### **Languages & Frameworks**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=TensorFlow&logoColor=white)
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -144,24 +146,9 @@ class VikranthBandaru:
 </td></tr>
 </table>
 
----
 
-## 📊 GitHub Stats
 
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VikranthBandaru&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VikranthBandaru&layout=compact&langs_count=8&theme=tokyonight"/>
 
-</div>
-
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VikranthBandaru&theme=tokyonight)](https://git.io/streak-stats)
-
-</div>
-
----
 
 ## 🎯 Currently...
 
