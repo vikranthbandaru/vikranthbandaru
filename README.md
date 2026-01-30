@@ -20,7 +20,7 @@
 
 > **I build production-ready AI systems that solve real business problems.**
 
-I'm an **AI/ML Engineer** specializing in **Generative AI systems** — from LLM-powered automation to full-stack AI products. With experience at **Genpact** and **Vaspian**, I translate cutting-edge AI research into scalable business solutions.
+I'm an **AI/ML Engineer** specializing in **Generative AI systems**, from LLM-powered automation to full-stack AI products. With experience at **Genpact** and **Vaspian**, I translate cutting-edge AI research into scalable business solutions.
 
 🎓 **M.S. in Artificial Intelligence** @ University at Buffalo  
 🏆 **B.Tech in CSE (AI/ML)** @ SRMIST | AIR 270 | Full Scholarship  
@@ -50,7 +50,7 @@ class VikranthBandaru:
 <tr>
 <td width="50%">
 
-**🏢 Data Scientist**  
+**Data Scientist**  
 *Genpact* | Jul 2023 - Aug 2024  
 - Built ML pricing optimization for **Nestlé Purina**
 - 25 markets, 6,000 SKUs, **86% accuracy**
@@ -59,7 +59,7 @@ class VikranthBandaru:
 </td>
 <td width="50%">
 
-**🚀 AI Product Development Intern**  
+**AI Product Development Intern**  
 *Vaspian, LLC* | Sept 2025 - Dec 2025  
 - Designed AI automation products
 - LLM-powered document intelligence
@@ -98,7 +98,7 @@ class VikranthBandaru:
 ### **Languages & Frameworks**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-EE4C2C?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -121,6 +121,7 @@ class VikranthBandaru:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white)
 
 </div>
 
