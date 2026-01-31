@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Vikranth Bandaru
 
-### AI/ML Engineer | GenAI Systems Builder | M.S. in AI @ UBuffalo
+### AI/ML Engineer | GenAI Systems Builder | M.S. in AI @ University at Buffalo - SUNY
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=600&lines=Building+Production+GenAI+Systems+%F0%9F%9A%80;LLMs+%7C+RAG+%7C+Document+Intelligence;From+Research+to+Business+Impact+%F0%9F%92%A1;Shipping+AI+Products+at+Scale)](https://git.io/typing-svg)
 
@@ -16,7 +16,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 > **I build production-ready AI systems that solve real business problems.**
 
@@ -44,7 +44,7 @@ class VikranthBandaru:
 
 ---
 
-## 💼 Professional Experience
+## Professional Experience
 
 <table>
 <tr>
@@ -71,7 +71,7 @@ class VikranthBandaru:
 
 ---
 
-## 🎯 Impact Highlights
+## Impact Highlights
 
 ```diff
 + 💬 Built LLM-powered FAQ automation (RAG) → 50% faster resolution time
@@ -91,7 +91,7 @@ class VikranthBandaru:
 
 ---
 
-## 🛠️ Tech Arsenal
+## Tech Arsenal
 
 <div align="center">
 
@@ -127,7 +127,7 @@ class VikranthBandaru:
 
 ---
 
-## 🏗️ What I Build
+## What I Build
 
 <table>
 <tr><td>
@@ -151,7 +151,7 @@ class VikranthBandaru:
 
 
 
-## 🎯 Currently...
+## Currently...
 
 ```yaml
 🔨 Building: Production-ready GenAI applications
@@ -162,7 +162,7 @@ class VikranthBandaru:
 
 ---
 
-## 🤝 Let's Connect!
+## Let's Connect!
 
 I'm actively looking for opportunities in **Applied AI**, **GenAI Engineering**, **Machine Learning**, and **AI Product Development**.
 
@@ -184,6 +184,6 @@ I'm actively looking for opportunities in **Applied AI**, **GenAI Engineering**,
 
 ![Profile Views](https://komarev.com/ghpvc/?username=VikranthBandaru&color=blueviolet&style=flat-square&label=Profile+Views)
 
-⭐️ From [VikranthBandaru](https://github.com/VikranthBandaru)
+From [VikranthBandaru](https://github.com/VikranthBandaru)
 
 </div>
