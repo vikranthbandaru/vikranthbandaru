@@ -74,19 +74,19 @@ class VikranthBandaru:
 ## Impact Highlights
 
 ```diff
-+ 💬 Built LLM-powered FAQ automation (RAG) → 50% faster resolution time
++  Built LLM-powered FAQ automation (RAG) → 50% faster resolution time
     ↳ Llama-3/4, OpenAI embeddings, Qdrant | 12,000+ call transcripts
 
-+ 💰 Delivered ML pricing optimization for Nestlé Purina
++  Delivered ML pricing optimization for Nestlé Purina
     ↳ PySpark pipeline | 25 markets, 6K SKUs | 86% accuracy
 
-+ 📄 Created "Data Structurizer" - OCR-driven document intelligence
++  Created "Data Structurizer" - OCR-driven document intelligence
     ↳ LangChain + GPT APIs for automated invoice analytics
 
-+ 🎙️ Built AI voice assistant with ElevenLabs + Airtable
++  Built AI voice assistant with ElevenLabs + Airtable
     ↳ Webinar automation & intelligent workflows
 
-+ 📚 IEEE-published researcher in computer vision (Person Re-ID)
++  IEEE-published researcher in computer vision (Person Re-ID)
 ```
 
 ---
@@ -154,17 +154,17 @@ class VikranthBandaru:
 ## Currently...
 
 ```yaml
-🔨 Building: Production-ready GenAI applications
-📖 Learning: Advanced AI agents & multi-modal LLMs
-🎯 Seeking: Applied AI | GenAI Engineering | ML Engineer roles
-🌱 Growing: AI systems architecture & MLOps best practices
+Building: Production-ready GenAI applications
+Learning: Advanced AI agents & multi-modal LLMs
+Seeking: Applied AI | GenAI Engineering | ML Engineer roles
+Growing: AI systems architecture & MLOps best practices
 ```
 
 ---
 
 ## Let's Connect!
 
-I'm actively looking for opportunities in **Applied AI**, **GenAI Engineering**, **Machine Learning**, and **AI Product Development**.
+I'm actively looking for opportunities in **Applied AI**, **GenAI Engineering**, **Machine Learning**, **Software Development** and **AI Product Development**.
 
 **Building cutting-edge AI products or teams? Let's talk!**
 
