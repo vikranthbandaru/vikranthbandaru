@@ -36,9 +36,9 @@ class VikranthBandaru:
         
     def current_work(self):
         return {
-            "🔍 seeking": ["Applied AI", "GenAI Engineering", "AI Product Development"],
-            "🛠️ building": "Production AI systems at scale",
-            "📚 learning": "Advanced RAG architectures & AI agents"
+            " seeking": ["Applied AI", "GenAI Engineering", "AI Product Development"],
+            " building": "Production AI systems at scale",
+            " learning": "Advanced RAG architectures & AI agents"
         }
 ```
 
