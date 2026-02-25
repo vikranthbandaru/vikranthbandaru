@@ -49,7 +49,6 @@ class VikranthBandaru:
 <table>
 <tr>
 <td width="50%">
-
 **Data Scientist**  
 *Genpact* | Jul 2023 - Aug 2024  
 - Built ML pricing optimization for **Nestlé Purina**
@@ -58,7 +57,6 @@ class VikranthBandaru:
 
 </td>
 <td width="50%">
-
 **AI Product Development Intern**  
 *Vaspian, LLC* | Sept 2025 - Dec 2025  
 - Designed AI automation products
