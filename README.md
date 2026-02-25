@@ -22,9 +22,9 @@
 
 I'm an **AI/ML Engineer** specializing in **Generative AI systems**, from LLM-powered automation to full-stack AI products. With experience at **Genpact** and **Vaspian**, I translate cutting-edge AI research into scalable business solutions.
 
-🎓 **M.S. in Artificial Intelligence** @ University at Buffalo  
-🏆 **B.Tech in CSE (AI/ML)** @ SRMIST | AIR 270 | Full Scholarship  
-📄 **IEEE Published Researcher** in Computer Vision  
+**M.S. in Artificial Intelligence** @ University at Buffalo  
+**B.Tech in CSE (AI/ML)** @ SRMIST | AIR 270 | Full Scholarship  
+**IEEE Published Researcher** in Computer Vision  
 
 ```python
 class VikranthBandaru:
@@ -132,14 +132,14 @@ class VikranthBandaru:
 <table>
 <tr><td>
 
-### 🤖 **AI Systems**
+### **AI Systems**
 - LLM-powered automation & RAG architectures
 - Production NLP & document intelligence
 - End-to-end ML pipelines (data → deployment)
 
 </td><td>
 
-### 🎨 **AI Products**
+### **AI Products**
 - Full-stack AI platforms (FastAPI + React)
 - Chatbots & voice agents
 - Vector databases & semantic search
