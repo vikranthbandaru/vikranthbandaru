@@ -184,6 +184,5 @@ I'm actively looking for opportunities in **Applied AI**, **GenAI Engineering**,
 
 ![Profile Views](https://komarev.com/ghpvc/?username=VikranthBandaru&color=blueviolet&style=flat-square&label=Profile+Views)
 
-From [VikranthBandaru](https://github.com/VikranthBandaru)
 
 </div>
