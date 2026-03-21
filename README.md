@@ -59,7 +59,7 @@ class VikranthBandaru:
 </td>
 <td width="50%">
     
-**AI Product Development Intern**  
+**AI Engineer Intern**  
 *Vaspian, LLC* | Sept 2025 - Dec 2025  
 - Designed AI automation products
 - LLM-powered document intelligence
